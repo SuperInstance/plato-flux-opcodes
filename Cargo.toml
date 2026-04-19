@@ -1,0 +1,5 @@
+[package]
+name = "plato-flux-opcodes"
+version = "0.1.0"
+edition = "2021"
+description = "Tile operations as FLUX bytecode opcodes — compilable, optimizable, verifiable tile manipulation"
