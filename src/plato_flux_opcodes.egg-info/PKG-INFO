@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: plato-flux-opcodes
+Version: 0.1.0
+Summary: FLUX bytecode opcodes — instruction set, registry, execution context
+License: MIT
+Requires-Python: >=3.8

@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/plato_flux_opcodes/__init__.py
+src/plato_flux_opcodes/opcodes.py
+src/plato_flux_opcodes.egg-info/PKG-INFO
+src/plato_flux_opcodes.egg-info/SOURCES.txt
+src/plato_flux_opcodes.egg-info/dependency_links.txt
+src/plato_flux_opcodes.egg-info/top_level.txt
